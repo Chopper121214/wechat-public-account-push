@@ -29,11 +29,11 @@ USE_PASSAGE: 'push-deer',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '小Q', year: '1996', date: '09-09',
+          type: '*生日', name: '小Q', year: '1998', date: '01-04',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '小Q', year: '1996', date: '09-31',
+          type: '生日', name: '小Q', year: '1997', date: '12-06',
         },
         {
           type: '节日', name: '相识纪念日', year: '2021', date: '05-03',
